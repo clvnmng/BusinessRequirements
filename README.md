@@ -18,7 +18,7 @@ Using Python with user-interface to input their information. The program will se
 
 ## Usage
 
-`
+```
 Here is an example:
 ? Enter a file path to a rate-sheet (.csv): /Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv
 ? What's your credit score? 800
@@ -26,7 +26,7 @@ Here is an example:
 ? What's your total monthly income? 51521512
 ? What's your desired loan amount? 42
 ? What's your home value? 41512542
-`
+```
 
 ---
 

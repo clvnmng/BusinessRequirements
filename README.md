@@ -1,24 +1,32 @@
-# Project Title
+# Loan Evaluation
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This app is used to search for qualifying loans based on financial information of borrowers.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Using Python with user-interface to input their information. The program will search for the qualifying loans
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+`git clone https://github.com/clvnmng/BusinessRequirements.git`
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+`
+Here is an example:
+? Enter a file path to a rate-sheet (.csv): /Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv
+? What's your credit score? 800
+? What's your current amount of monthly debt? 321
+? What's your total monthly income? 51521512
+? What's your desired loan amount? 42
+? What's your home value? 41512542
+`
 
 ---
 
